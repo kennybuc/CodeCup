@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Thermal Printer</string>
+    <string name="ChooseYourCup">Choose your Cup</string>
+
+    <string name="PlaceYourSymbol">Place your symbol within red rectangle.</string>
+    <string name="Scanning">Scanning…</string>
+    <string name="Submit">Submit</string>
+    <string name="Grant_necessary_permissions">Please go to app settings and grant necessary settings.</string>
+    <string name="Permissions_not_granted">Permission are not granted.</string>
+    <string name="NewScan">New Scan</string>
+    <string name="Connect">Connect to printer</string>
+    <string name="UsbConnected">Printer is connected</string>
+    <string name="ConnectingToPrinter">Connecting to printer…</string>
+
+    <string name="btn_conn">Connect Printer</string>
+    <string name="btnSendTxt">Send</string>
+    <string name="btnPrintTestPage">Print test page</string>
+    <string name="btnDisconnect">Disconnect printer</string>
+    <string name="txtContent">&quot;&quot;</string>
+    <string name="menu_settings">set</string>
+    <string name="strLang">en</string>
+    <string name="msg_AccessSuccess">USB device access is successful </string>
+    <string name="msg_AccessFail">USB device access is failed,please connect again</string>
+    <string name="input_content">Please input content,then press Send button to print.</string>
+    <string name="remark">Remark:Please connect printer first before other operation.</string>
+    <string name="content_null">Please input content first.</string>
+    <string name="paper_stat">Paper is inavailable</string>
+</resources>

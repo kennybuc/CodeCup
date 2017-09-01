@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="API_KEY">GA6B17RAE56223B3E4719DF44F9CCFGE</string>
+    <string name="url_choose_up">http://www.prizecup.eu/flexivend/</string>
+    <string name="PRINT_STRING">TOKEN\ncollect 10\n\n\n   </string>
+</resources>
